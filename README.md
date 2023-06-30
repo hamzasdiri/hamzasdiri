@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Hamza Sdiri
+As a talented and enthusiastic developer, I bring my passion for full stack web and mobile development all the way from beautiful Tunisia.
 <!--
 **hamzasdiri/hamzasdiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
